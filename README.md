@@ -1,3 +1,3 @@
 # Odin Homepage
 
-[Live Link]()
+[Live Link](https://neitodesu.github.io/odin-homepage/)
