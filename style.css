@@ -136,11 +136,13 @@ body {
 
 .card-bottom .card-icons {
   display: flex;
+  align-items: center;
+  justify-content: center;
   gap: 0.5rem;
 }
 
-.card-icons i {
-  cursor: pointer;
+.project-card svg {
+  width: 24px;
 }
 
 .footer-container {
